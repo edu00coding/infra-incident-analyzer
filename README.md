@@ -31,3 +31,19 @@ Em ambientes de infraestrutura, é comum que logs de monitoramento venham de fon
     Saída: Arquivo incidentes_graves.csv contendo apenas alertas que exigem ação imediata.
 
     
+📖 Como Rodar
+
+    Clone o repositório:
+    Bash
+
+git clone https://github.com/edu00coding/infra-incident-analyzer.git
+
+Instale as dependências:
+Bash
+
+pip install -r requirements.txt
+
+Execute o script:
+Bash
+
+python Troubleshooting_Infra.py
